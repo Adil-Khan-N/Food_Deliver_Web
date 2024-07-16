@@ -1,0 +1,1 @@
+This full-stack MERN project has two interfaces: a client interface and an admin panel. It uses Stripe for money transfers and is fully responsive. The admin panel allows item management and order status viewing. The client interface includes login and signup features, among other capabilities.
